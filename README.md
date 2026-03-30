@@ -6,7 +6,7 @@ This repository showcases my learning journey, projects, and skills in data anal
 🚀 About Me
 
 Hi, I'm Deepak Kumar Prajapati 👋
-I am passionate about data analytics and continuously improving my skills in extracting insights from data.
+I am passionate about data analytics, ML, AI, and continuously improving my skills in extracting insights from data.
 
 📍 Location: India
 🎯 Goal: To become a Data Analyst
